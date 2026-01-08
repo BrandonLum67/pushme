@@ -2,3 +2,7 @@ This is a file created on the local machine
 LM text 1
 LM text 2
 LM text 3
+This is a file created in GitHub
+GitHub text 1
+GitHub text 2
+GitHub text 3
