@@ -1,0 +1,4 @@
+This is a file created on the local machine
+LM text 1
+LM text 2
+LM text 3
